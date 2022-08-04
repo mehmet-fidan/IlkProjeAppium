@@ -1,5 +1,6 @@
 Feature: Calculator
 
+  @Sum
   Scenario: Sum of two number in calculator
     Given user on start page
     When user sum the following numbers
